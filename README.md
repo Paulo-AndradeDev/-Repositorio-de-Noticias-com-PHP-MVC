@@ -1,0 +1,2 @@
+# -Repositorio-de-Noticias-com-PHP-MVC
+Trata-se de um catálogo de notícias, uma espécie de repositório pessoal. O objeto de projeto foi explorar a arquitetura MVC sem ajuda de frameworks back-end. Tendo como foco o MVC, o projeto centrou-se nas seguintes features: 1. rotas com URLs amigáveis; 2. CRUD com MySQL, incluído busca; e  3. administração de usuários com cadastro, login e logout. Por fim, o front-end foi construído com o framework Materialize.
